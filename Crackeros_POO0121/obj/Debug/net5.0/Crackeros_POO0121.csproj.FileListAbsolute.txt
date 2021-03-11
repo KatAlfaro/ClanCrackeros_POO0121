@@ -1,0 +1,16 @@
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\bin\Debug\net5.0\Crackeros_POO0121.exe
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\bin\Debug\net5.0\Crackeros_POO0121.deps.json
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\bin\Debug\net5.0\Crackeros_POO0121.runtimeconfig.json
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\bin\Debug\net5.0\Crackeros_POO0121.runtimeconfig.dev.json
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\bin\Debug\net5.0\Crackeros_POO0121.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\bin\Debug\net5.0\ref\Crackeros_POO0121.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\bin\Debug\net5.0\Crackeros_POO0121.pdb
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.csprojAssemblyReference.cache
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.AssemblyInfoInputs.cache
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.AssemblyInfo.cs
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.csproj.CoreCompileInputs.cache
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\ref\Crackeros_POO0121.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.pdb
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\obj\Debug\net5.0\Crackeros_POO0121.genruntimeconfig.cache

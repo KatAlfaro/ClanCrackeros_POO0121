@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Crackeros_POO0121/1.0.0": {
+        "runtime": {
+          "Crackeros_POO0121.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crackeros_POO0121/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
