@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace example
+namespace example1
 {
     public class Program
     {
@@ -14,13 +14,13 @@ namespace example
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-             Console.WriteLine($"Subtracting {a} - {b} equals {SubNumbers(a,b)} ");
+             Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a,b)} ");
 
         }
 
-        public  static int SubNumbers(int a, int b)
+        public  static int AddNumbers(int a, int b)
         {
-            return a - b;
+            return a + b;
         }
     }
 }
